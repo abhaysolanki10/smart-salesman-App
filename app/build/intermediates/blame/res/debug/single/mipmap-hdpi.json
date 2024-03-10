@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\logo.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\logo.png",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    }
+]

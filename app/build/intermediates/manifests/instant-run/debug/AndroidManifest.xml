@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.freewaresys.smartsalesman"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.freewaresys.smartsalesman.Splashscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.freewaresys.smartsalesman.Home" />
+        <activity android:name="com.example.freewaresys.smartsalesman.SRegister" />
+        <activity
+            android:name="com.example.freewaresys.smartsalesman.SDrawer"
+            android:label="@string/title_activity_sdrawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.freewaresys.smartsalesman.ADrawer"
+            android:label="@string/title_activity_adrawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.freewaresys.smartsalesman.AdminProfile" />
+        <activity android:name="com.example.freewaresys.smartsalesman.ShowSalesManager" />
+        <activity android:name="com.example.freewaresys.smartsalesman.ShowManager" />
+        <activity android:name="com.example.freewaresys.smartsalesman.Category" />
+        <activity android:name="com.example.freewaresys.smartsalesman.ShowCategory" />
+        <activity android:name="com.example.freewaresys.smartsalesman.Customer" />
+        <activity android:name="com.example.freewaresys.smartsalesman.row_customer" />
+        <activity android:name="com.example.freewaresys.smartsalesman.Showcustomer" />
+        <activity android:name="com.example.freewaresys.smartsalesman.City" />
+        <activity android:name="com.example.freewaresys.smartsalesman.Area" />
+        <activity android:name="com.example.freewaresys.smartsalesman.ShowCity" />
+        <activity android:name="com.example.freewaresys.smartsalesman.ShowArea" />
+        <activity android:name="com.example.freewaresys.smartsalesman.CustomerList" />
+        <activity android:name="com.example.freewaresys.smartsalesman.SelectCategory" />
+        <activity android:name="com.example.freewaresys.smartsalesman.HomeLoan" />
+        <activity android:name="com.example.freewaresys.smartsalesman.LifeIns" />
+        <activity android:name="com.example.freewaresys.smartsalesman.SalesProfile" />
+        <activity android:name="com.example.freewaresys.smartsalesman.EditProfile" />
+        <activity android:name="com.example.freewaresys.smartsalesman.UserArea" />
+        <activity android:name="com.example.freewaresys.smartsalesman.VehicleIns" />
+        <activity android:name="com.example.freewaresys.smartsalesman.CustomerDetail" />
+        <activity android:name="com.example.freewaresys.smartsalesman.CustomerInner" />
+        <activity android:name="com.example.freewaresys.smartsalesman.Help" />
+        <activity android:name="com.example.freewaresys.smartsalesman.Helptwo" />
+        <activity android:name="com.example.freewaresys.smartsalesman.Helpthree" />
+        <activity android:name="com.example.freewaresys.smartsalesman.Helpfour" />
+        <activity android:name="com.example.freewaresys.smartsalesman.Helpfive" />
+    </application>
+
+</manifest>

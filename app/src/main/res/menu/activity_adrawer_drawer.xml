@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_SalesmanList"
+            android:icon="@drawable/salesman"
+            android:title="Salesman" />
+        <item
+            android:id="@+id/nav_Cat"
+            android:icon="@drawable/forms"
+            android:title="Category" />
+        <item
+            android:id="@+id/nav_city"
+            android:icon="@drawable/area"
+            android:title="City" />
+
+        <item
+            android:id="@+id/nav_area"
+            android:icon="@drawable/area"
+            android:title="Area" />
+        <item
+            android:id="@+id/nav_Customers"
+            android:icon="@drawable/customers"
+            android:title="Show Customers" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_ad_logout"
+                android:icon="@drawable/logout"
+                android:title="Log Out" />
+
+        </menu>
+    </item>
+
+</menu>

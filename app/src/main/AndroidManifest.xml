@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.freewaresys.smartsalesman">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Home" />
+        <activity android:name=".SRegister" />
+        <activity
+            android:name=".SDrawer"
+            android:label="@string/title_activity_sdrawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ADrawer"
+            android:label="@string/title_activity_adrawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".AdminProfile" />
+        <activity android:name=".ShowSalesManager" />
+        <activity android:name=".ShowManager" />
+        <activity android:name=".Category" />
+        <activity android:name=".ShowCategory" />
+        <activity android:name=".Customer" />
+        <activity android:name=".row_customer" />
+        <activity android:name=".Showcustomer" />
+        <activity android:name=".City" />
+        <activity android:name=".Area" />
+        <activity android:name=".ShowCity" />
+        <activity android:name=".ShowArea" />
+        <activity android:name=".CustomerList" />
+        <activity android:name=".SelectCategory" />
+        <activity android:name=".HomeLoan" />
+        <activity android:name=".LifeIns" />
+        <activity android:name=".SalesProfile" />
+        <activity android:name=".EditProfile" />
+        <activity android:name=".UserArea" />
+        <activity android:name=".VehicleIns" />
+        <activity android:name=".CustomerDetail" />
+        <activity android:name=".CustomerInner" />
+        <activity android:name=".Help" />
+        <activity android:name=".Helptwo" />
+        <activity android:name=".Helpthree" />
+        <activity android:name=".Helpfour" />
+        <activity android:name=".Helpfive"></activity>
+    </application>
+
+</manifest>

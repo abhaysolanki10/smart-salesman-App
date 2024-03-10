@@ -1,0 +1,738 @@
+[
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_manager.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_show_manager.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_detail.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_customer_detail.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_list.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_customer_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_inner.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_customer_inner.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_row_customer.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_row_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sdrawer.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_sdrawer.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_sdrawer.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\app_bar_sdrawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_adrawer.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\nav_header_adrawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_row_customer.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_row_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_category.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_select_category.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_profile.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_admin_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_profile.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showcustomer.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_showcustomer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_helptwo.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_helptwo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_helpthree.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_helpthree.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_helpthree.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_helpthree.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_manager.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_show_manager.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_sdrawer.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\content_sdrawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_sdrawer.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\nav_header_sdrawer.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_adrawer.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_adrawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_helpfour.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_helpfour.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_detail.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_customer_detail.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_customer.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_adrawer.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_adrawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_area.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_area.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sdrawer.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_sdrawer.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_area.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_user_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vehicle_ins.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_vehicle_ins.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_loan.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_home_loan.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_adrawer.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\content_adrawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_area.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_area.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_adrawer.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\app_bar_adrawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_sales_manager.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_show_sales_manager.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vehicle_ins.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_vehicle_ins.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_city.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_city.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_life_ins.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_life_ins.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_category.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_show_category.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_helpfive.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_helpfive.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_city.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_city.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_helptwo.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_helptwo.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_helpfive.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_helpfive.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_profile.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_admin_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_sdrawer.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\app_bar_sdrawer.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_loan.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_home_loan.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_adrawer.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\app_bar_adrawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_adrawer.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\content_adrawer.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_sdrawer.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\content_sdrawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_area.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_user_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sregister.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_sregister.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sregister.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_sregister.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_category.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_select_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sales_profile.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_sales_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_inner.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_customer_inner.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_sdrawer.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\nav_header_sdrawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_life_ins.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_life_ins.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sales_profile.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_sales_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_sales_manager.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_show_sales_manager.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_profile.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_adrawer.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\nav_header_adrawer.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showcustomer.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_showcustomer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_list.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_customer_list.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_helpfour.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_helpfour.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_area.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_show_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_area.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_show_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_category.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_show_category.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_city.xml",
+        "source": "D:\\smartsalesman\\app\\src\\main\\res\\layout\\activity_show_city.xml"
+    },
+    {
+        "merged": "D:\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "D:\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_city.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\smartsalesman\\app\\src\\main\\res\\layout\\activity_show_city.xml"
+    }
+]
